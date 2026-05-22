@@ -1,0 +1,67 @@
+/**
+ * file: chatgpt_karbytes_23may2026_p1.txt
+ * type: plain-text
+ * date: 21_MAY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.5 which took place between 11:59PM Pacific Standard Time on 20_MAY_2026 and 11:59PM Pacific Standard Time on 21_MAY_2026.
+
+* * *
+
+[...]
+
+karbytes:
+
+[The total cost of the LG plug-and-play USB-powered blu-ray disc drive cost nearly $200 and the stack of 25 M_DISCs (each with a storage capacity of up to 25 gigabytes) cost nearly $100.]
+
+Well, I'm pretty sure that one of the bluray disc drives I bought during the past year has suddenly stopped working and is probably no longer usable. I only have one working bluray disc drive left and am using it now to finish up burning mdiscs for the fourth karbytes time capsule.
+
+ChatGPT:
+
+[Thought for a couple of seconds]
+
+That sounds like the right conclusion from the evidence: one drive failed to appear in lsusb or lsblk, while the older Verbatim drive did appear as both a USB device and /dev/sr0. So Ubuntu is probably fine; the failed drive is likely dead, underpowered, or has a bad USB bridge/cable.
+
+For the remaining working Blu-ray drive, I’d treat it as critical infrastructure until the fourth time capsule is finished:
+
+1. Use it only for the remaining M-DISC burns. Avoid casual testing, reading random discs, or repeated tray cycling.
+
+2. Keep everything physically still while burning. No moving the laptop, drive, cable, or table.
+
+3. Use wall power. Laptop plugged in, no battery-only burns.
+
+4. Use the most stable USB setup. Direct USB port, no hub; both Y-cable plugs if applicable.
+
+5. Burn smaller batches first if possible. karbytes2026_3 sounds safer than retrying very large karbytes2026_2 jobs on a known-aging drive.
+
+6. Enable verification after burn. A completed burn without verification is better than nothing, but verified M-DISCs are much more reassuring.
+
+7. Let finalization finish fully. Do not eject manually if it appears paused near the end.
+
+After the fourth time capsule is complete, I would consider buying at least one replacement Blu-ray/M-DISC-capable drive soon, because right now you’re down to a single point of failure. Given how central M-DISC burning is to KARBYTES, replacing the failed drive seems like a valid infrastructure expense rather than a luxury.
+
+karbytes:
+
+I placed an Amazon order for a new bluray disc drive and another stack of mdiscs.
+
+ChatGPT:
+
+[Thought for a second]
+
+Good move. That reduces the single-point-of-failure problem while you’re in the middle of a critical archival phase.
+
+For now, I’d keep using the working drive only as much as necessary to finish the fourth time capsule, and avoid stressing it with extra test burns. When the new drive arrives, a sensible first test would be:
+
+[preformatted_text]
+
+lsusb
+lsblk
+dvd+rw-mediainfo /dev/sr0
+
+[end preformatted_text]
+
+Then burn a smaller, non-critical or duplicate set first before trusting it with the most important M-DISC copies.
+
+Given that one drive suddenly stopped being detected and the older one failed during a burn, ordering both a replacement Blu-ray drive and more M-DISCs seems like a practical KARBYTES infrastructure purchase rather than unnecessary spending.
