@@ -1,7 +1,7 @@
 #########################################################################################
 # file: print_folder_contents.py
 # type: Python
-# date: 20_APRIL_2026
+# date: 22_MAY_2026
 # author: karbytes
 # license: PUBLIC_DOMAIN 
 #########################################################################################
@@ -62,8 +62,8 @@ def list_files_in_folder(folder_path, output_file):
     print("\n\n--------------------------------\n\n")
 
 # Set the folder path to the folder you would like to analyze.
-folder_path = 'karbytes2026_3'  # Replace the value of folder_path with your actual folder path.
-output_file = 'karbytes2026_3_contents.txt'  # Replace the value of output_file with your preferred output text file path (which will overwrite that file if it exists or else generate it).
+folder_path = 'karbytes2026_4'  # Replace the value of folder_path with your actual folder path.
+output_file = 'karbytes2026_4_contents.txt'  # Replace the value of output_file with your preferred output text file path (which will overwrite that file if it exists or else generate it).
 
 # Execute the function which is defined in this program file.
 list_files_in_folder(folder_path, output_file)
