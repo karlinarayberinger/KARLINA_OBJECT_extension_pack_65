@@ -38,7 +38,7 @@ file_14: KARLINA_OBJECT_extension_pack_64-main.zip // SHA-256: a5f18e8ba85d6ff6e
 
 file_15: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_30march2026.zip // SHA-256: e9fb9e2402065c05d52ac5219be0eebff96b92f412371cb45941d5a1a7c50d04
 
-file_16: KARLINA_OBJECT_extension_pack_65-main_24may2026.zip // SHA-256: 008535a8199b2781337354b5d22a39946a3da49bc962a35a83f94635e004f398
+file_16: KARLINA_OBJECT_extension_pack_65-main_24may2026.zip // SHA-256: bb4ef2f9ec9ae137c864fb786f4ba128472780dd65016c9f344466187b04c551
 
 --------------------------------
 
