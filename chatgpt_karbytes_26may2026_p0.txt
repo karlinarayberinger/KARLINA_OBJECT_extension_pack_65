@@ -497,3 +497,15 @@ karbytes:
 In yesterday's blog post you generated an awesome image to embed in that web page. Can you generate another image for today's blog post (which focuses on that fantasy I described to you and revised KARBYTES-karbytes relationship) which looks like two of me standing together holding hands at the top of some hill in a northern California setting?
 
 ChatGPT:
+
+[Thought for a second]
+
+Please upload a clear image of yourself in this conversation so I can generate a more accurate “two karbytes holding hands on a Northern California hill” image for today’s blog post.
+
+karbytes:
+
+[uploaded_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/karbytes_selfie_26may2026.jpg]
+
+Here's a picture I took of myself a few minutes ago for reference.
+
+ChatGPT:
