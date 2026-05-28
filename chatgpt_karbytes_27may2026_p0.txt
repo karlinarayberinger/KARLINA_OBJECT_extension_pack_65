@@ -1,7 +1,7 @@
 /**
  * file: chatgpt_karbytes_27may2026_p0.txt
  * type: plain-text
- * date: 27_MAY_2026
+ * date: 28_MAY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -342,7 +342,7 @@ karbytes is constrained, but not inert. Caused, but not meaningless. Embedded, b
 
 karbytes:
 
-While I was in the shower a few moments ago, I was thinking about how I feel the need to assert more of my programmer identity in my KARBYTES work to feel that I am adequately meeting my own standards over time. There are periods where I don’t do much software engineering (because such an activity tends to consume quite a bit of time and cognitive resources compared to most other activities I regularly partake in). Also, I feel that KARBYTES has reached a point in its evolution where the apps listed in the SOFTWARE_ENGINEERING_PORTFOLIO section of KARBYTES has become metaphysically complete at an introductory level (which means that additional apps which I add to SOFTWARE_ENGINEERING_PORTFOLIO later “should” be more advanced in terms of concepts being modeled and labor investment on my part and on the audience’s part). What I am tentatively planning on doing is self-directed informal studying of various subjects that span natural science, humanities, and engineering disciplines according to what feels most relevant and to me and what is within my resource budget at a given time. I had success with finding homework assignment problems inside of old JavaScript textbooks. That is how I came up with the Monte Carlo dart-throwing simulation to approximate the number Pi in an engaging manner. I plan on looking through free text books and free online course material during the remainder of this year for ideas for software applications I can build and add to SOFTWARE_ENGINEERING_PORTFOLIO which demonstrate relatively timeless concepts in mathematics and physics (as part of the larger theme of KARBYTES being about karbytes genuinely appreciating nature’s beauty as deeply as possible and interacting with it).
+While I was in the shower a few moments ago, I was thinking about how I feel the need to assert more of my programmer identity in my KARBYTES work to feel that I am adequately meeting my own standards over time. There are periods where I don’t do much software engineering (because such an activity tends to consume quite a bit of time and cognitive resources compared to most other activities I regularly partake in). Also, I feel that KARBYTES has reached a point in its evolution where the apps listed in the SOFTWARE_ENGINEERING_PORTFOLIO section of KARBYTES have collectively become metaphysically complete at an introductory level (which means that additional apps which I add to SOFTWARE_ENGINEERING_PORTFOLIO later “should” be more advanced in terms of concepts being modeled and labor investment on my part and on the audience’s part). What I am tentatively planning on doing is self-directed informal studying of various subjects that span natural science, humanities, and engineering disciplines according to what feels most relevant and to me and what is within my resource budget at a given time. I had success with finding homework assignment problems inside of old JavaScript textbooks. That is how I came up with the Monte Carlo dart-throwing simulation to approximate the number Pi in an engaging manner. I plan on looking through free text books and free online course material during the remainder of this year for ideas for software applications I can build and add to SOFTWARE_ENGINEERING_PORTFOLIO which demonstrate relatively timeless concepts in mathematics and physics (as part of the larger theme of KARBYTES being about karbytes genuinely appreciating nature’s beauty as deeply as possible and interacting with it).
 
 ChatGPT:
 
@@ -622,7 +622,7 @@ karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_01june2026/]
 
-[uploaded_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/journal_karbytes_27may2026_p0.txt]
+[uploaded_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/journal_karbytes_27may2026_p2.txt]
 
 Somewhat related to what we have been discussing most recently in this conversation is a journal entry I wrote today which captures the gist of what my self-authored existence is about.
 
