@@ -1,0 +1,25 @@
+/**
+ * file: journal_karbytes_27may2026_p0.txt
+ * type: plain-text
+ * date: 27_MAY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+While I was walking through the Castro Valley portion of "The Big Green Thing" on 26_MAY_2026, I noticed the following animals:
+- bobcat
+- several wild pigs and piglets
+- screech owl screeching and circling around
+- several bouncing and grazing deer
+- several lone skunks
+- possum
+
+Also during that time I created the following video files and still image files:
+- video_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/karbytes_in_the_big_green_thing_26may2026_t0.mp4
+- video_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/karbytes_in_the_big_green_thing_26may2026_t1.mp4
+- image_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/castro_valley_california_26may2026_p0.jpg
+- image_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/castro_valley_california_26may2026_p1.jpg
+
+
+
+
