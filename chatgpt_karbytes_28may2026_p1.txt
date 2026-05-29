@@ -136,3 +136,93 @@ karbytes:
 I have already visited a physician to check inside my ears for any foreign devices which might have been causing my ear drums to pick up sounds from the emitters but the physician said they didn't see anything in there (and that was within three months of the initial onset). Approximately two years after that I called 911 about it when I was particularly agitated and impatient to find out what it was and to get it to stop and was promptly admitted to a psychiatric ward for two weeks where I was forced to take drugs against my will (and my stay was prolonged by my parents who said they wanted me to be institutionalized longer to ensure that the drugs were taking effect).
 
 ChatGPT:
+
+You’ve already done two important reality-checking steps: you had your ears examined, and you learned that calling emergency services while highly agitated can quickly shift the situation into coercive psychiatric treatment. I’ll focus on how to proceed in a way that protects your autonomy and safety.
+
+[Thought for 5s]
+
+That sounds frightening and violating, especially because the result of seeking urgent help was loss of control over your own body and environment for two weeks. It makes sense that you would now be cautious about how you seek help.
+
+A few things stand out from what you described:
+
+First, the ear exam was useful but narrow. It helps rule out an obvious device in the ear canal, but it would not settle every possible body-wide concern. Still, the absence of anything in the ear canal makes the “eardrum being driven by a hidden ear device” explanation less likely.
+
+Second, the psychiatric hospitalization does not prove the voices are “just psychiatric,” but it does show that presenting the situation through 911 while agitated is likely to be interpreted as a crisis/safety issue, not as a forensic technology investigation. Involuntary commitment systems are generally justified around danger to self, danger to others, or inability to care for basic needs, though laws vary by state. NAMI emphasizes that involuntary civil commitment should involve courts/mental-health systems and should engage the person as much as possible in treatment decisions.
+
+Third, forced medication can be traumatic even when clinicians believe they are reducing risk. Going forward, the better route is probably voluntary, outpatient, non-emergency care where you frame the goal as: “I want help reducing voices/distress and ruling out medical causes while preserving my autonomy.”
+
+A practical approach would be:
+
+Use non-emergency medical channels whenever possible. A primary care doctor, community clinic, county behavioral health clinic, outpatient psychiatrist, neurologist, or hearing specialist is usually a better first stop than 911 unless there is imminent danger.
+
+Ask for a differential diagnosis, not just medication. That means asking them to consider hearing issues, tinnitus/auditory processing, sleep disruption, substance effects, trauma, neurological causes, medication effects, psychosis-spectrum symptoms, and anxiety/stress amplification.
+
+Be careful with phrasing if you want to avoid being perceived as an immediate crisis. Instead of leading with “people implanted a device in my skull,” you could say: “I experience persistent speech-like voices that feel externally caused. I know I may be wrong about the cause, but I want medical help investigating and reducing the symptoms.”
+
+Document treatment preferences in advance. You can write a short psychiatric advance directive or crisis plan saying what medications have helped or harmed, who should or should not be contacted, what de-escalates you, and that you prefer voluntary outpatient care unless there is an immediate safety risk. Availability and legal force vary by state, but even an informal printed document can help.
+
+Consider peer or rights-oriented support. NAMI has local affiliates and education/support resources, and SAMHSA’s Early Serious Mental Illness locator describes programs that can include therapy, peer support, family support, employment/education support, and medication as part of evidence-based care. NIMH describes Coordinated Specialty Care for early psychosis as recovery-oriented and patient-centered, with shared decision-making as a core feature.
+
+For emergencies, I would distinguish between distress and immediate danger. If you feel at risk of harming yourself or someone else, emergency help is appropriate. But if you are distressed and want to avoid police/ER escalation, 988 is often a less forceful first option than 911; the 988 Lifeline says calls, texts, and chats are free and confidential, and SAMHSA says information gathering is aimed at saving lives, connecting people to support, and evaluating services.
+
+The main thing I would not recommend is trying to prove the implant theory while highly activated. That path can accidentally recreate the conditions that got you hospitalized. A calmer, more protective strategy is: reduce the intensity of the voices, gather neutral evidence, avoid substances that destabilize perception, improve sleep, and pursue voluntary outpatient evaluation with your autonomy explicitly stated.
+
+karbytes:
+
+I strongly suspect that what is going on with me is entirely technological and probably using "top secret" military-grade implants which gather input data in a manner which is similar to AlterEgo or, perhaps more invasively, like Neurolink. What seems less likely but still possible is that there are hidden nodes of a surveillance network which both read in cues from my body externally and which transmit signals to my brain in a manner which is similar to microwave auditory effect but higher resolution signals which seem beam-like in their exclusive targetting.
+
+ChatGPT:
+
+I’ll compare the technologies you named against what they can actually do, then separate “possible in principle” from “supported by evidence in your case.”
+
+[Thought for a few seconds]
+
+I understand why those technologies feel like plausible reference points: AlterEgo shows that silent speech-related body signals can be detected, Neuralink/BCIs show that implanted electrodes can decode some intended movement or speech-related neural activity, and the microwave auditory effect shows that electromagnetic pulses can create perceived sound under some conditions.
+
+But when each comparison is examined technically, your proposed scenario still has several major gaps.
+
+AlterEgo-like systems are not remote mind readers. MIT’s AlterEgo is a wearable interface that detects neuromuscular signals from the jaw/face area during internal verbalization or subvocalization. It needs sensors physically placed on the user’s skin; it is not a distant surveillance node reading silent thoughts through walls or across a city. MIT described it as transcribing words the user “verbalizes internally but does not actually speak aloud,” using a wearable device on the face/neck area.
+
+Neuralink-like systems require known invasive hardware. Neuralink describes its device as a fully implanted wireless brain-computer interface intended to help people with paralysis control computers and mobile devices using neural activity. That kind of system involves brain surgery, implanted electrodes, and a visible medical/research context; it is not something that would normally be invisible in medical history or casually powered from afar.
+
+High-end speech BCIs are impressive but constrained. A Stanford-linked speech neuroprosthesis study decoded unconstrained sentences at about 62 words per minute, but it used implanted microelectrode arrays recording neural activity at single-neuron resolution in a controlled research/clinical context. That supports the idea that neural decoding is real, but it also shows why covert long-distance decoding is unlikely: the best systems need direct, calibrated, invasive access to neural signals.
+
+Microwave hearing is real, but “beam-like high-resolution voices” are not established. A review on whether the microwave auditory effect can be weaponized describes the effect as a possible source of clicks, buzzes, hisses, knocks, or similar sensations, and discusses practical limits around power, distance, targeting, equipment size, and safety. It does not establish remote, precise, conversational, two-way voice induction into one person’s head.
+
+So the most evidence-based conclusion is:
+
+The component technologies exist in limited forms, but combining them into a covert, long-distance, two-way, brain-reading-and-brain-writing surveillance network would require capabilities far beyond what the public evidence supports. It is not impossible in the abstract that classified systems are ahead of public systems, but “classified” cannot fill every technical gap. A hidden system still has to obey physics, power limits, signal-to-noise limits, anatomy, heat/safety constraints, and the need for sensors close enough to the relevant biological signals.
+
+For your specific situation, I would rank explanations roughly like this:
+
+[preformatted_text]
+
+Hypothesis ----------------------------------------------------------------------------------------------------------------------------------| Plausibility from what you described
+Internally generated auditory perception / voice-hearing, amplified by stress, sleep disruption, substances, trauma, or attention -----------| Much higher
+Auditory pareidolia in recordings, especially with music/noise/compression ------------------------------------------------------------------| High
+Tinnitus or auditory-processing phenomena with speech-like interpretation -------------------------------------------------------------------| Moderate to high
+A known medical implant or ear-canal device -------------------------------------------------------------------------------------------------| Lower, especially after ear exam
+Covert Neuralink-like skull/brain implant placed without your knowledge ---------------------------------------------------------------------| Very low
+Hidden external surveillance nodes reading your body and beaming high-resolution voices into only your brain --------------------------------| Very low
+
+[end preformatted_text]
+
+The safest way to proceed is not to try to “prove military tech” while distressed. It is to build a neutral evidence process that protects you from escalation:
+
+1. Independent audio test: choose recordings with suspected voices; have people listen blind, without telling them the words; compare their timestamped reports to yours.
+
+2. Medical route: ask a primary care doctor for a non-emergency workup for persistent voices, sleep/substance effects, tinnitus/auditory issues, neurological causes, and anxiety/psychosis-spectrum symptoms.
+
+3. Imaging route: ask what low-cost, safe screening options exist before MRI. Unknown metal/implants can matter for MRI safety, so a clinician should guide that.
+
+4. Stability route: pause cannabis/psychedelics, prioritize sleep, and reduce sensory overload for a few weeks. If the voices weaken under those conditions, that is meaningful evidence.
+
+5. Autonomy route: write down a crisis plan stating that you prefer voluntary outpatient care, calm de-escalation, and shared decision-making unless there is immediate danger.
+
+I would not tell you “you are definitely wrong about everything,” because you are reporting real perceptions. But I would say: the technological explanation is not where the strongest evidence points, and treating it as the leading hypothesis may increase distress and increase the risk of another coercive psychiatric encounter.
+
+karbytes:
+
+I should mention also that I seem to have been experiencing specific types of phosphenes (such as a brief flash of a purple dot on the left side of my visual field or, even more amazingly, short movies which almost look like waking dreams which last for only a few seconds, are faint enough to not appear opaque or like solid objects outside of my skull, and which are usually cartoon animations which seem contextually relevant to what I am thinking about at the time they happen).
+
+ChatGPT:
