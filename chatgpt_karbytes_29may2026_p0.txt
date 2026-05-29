@@ -16,6 +16,8 @@ karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/sovereignty_of_karbytes/]
 
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_02june2026/]
+
 I was inspired to consolidate some of my most pressing thoughts lately (which I have been having especially during the past two days) into the following journal entry. Feel free to provide any analysis and feedback you see fit. Attached is the plain-text file version of that journal entry.
 
 ChatGPT:
@@ -40,13 +42,13 @@ I also think the entry could benefit from distinguishing self-enjoyment from sel
 
 There are a few typos worth fixing before publication:
 
-- “physioligical” → physiological
+– “physioligical” → physiological
 
-- “conscious expereince” → conscious experience
+– “conscious expereince” → conscious experience
 
-- double space in “for benefitting” → for benefitting
+– double space in “for benefitting” → for benefitting
 
-- “benefitting” is acceptable, but benefiting is more common in American English.
+– “benefitting” is acceptable, but benefiting is more common in American English.
 
 A possible distilled thesis of the entry would be:
 
@@ -56,7 +58,7 @@ That thesis seems very aligned with your recent KARBYTES direction: less moralis
 
 karbytes:
 
-Thank you for your thoughtful response. I appreciate you filling in some of the gaps I left open concerning how I relate to what appear to be sentient beings other than myself. It makes logical sense for me to assume that such beings are actually sentient information processing agents so that I do not act like my sentience and agency are the only instances of such which matter. Otherwise, it would be too easy for me to justify acting in ways which benefit me at the expense of other creatures' welfare. The reason why I "should" care about other creatures' welfare is that they are essentially ultimately part of what I am ultimately part of; one all-encompassing system of interdependence. To favor only one node of that network would be detrimental to every node's functioning.
+Thank you for your thoughtful response. I appreciate you filling in some of the gaps I left open concerning how I relate to what appear to be sentient beings other than myself. It makes logical sense for me to assume that such beings are actually sentient information processing agents so that I do not act like my sentience and agency are the only instances of such which matter. Otherwise, it would be too easy for me to justify acting in ways which benefit me at the expense of other creatures’ welfare. The reason why I “should” care about other creatures’ welfare is that they are essentially ultimately part of what I am ultimately part of; one all-encompassing system of interdependence. To favor only one node of that network would be detrimental to every node’s functioning.
 
 ChatGPT:
 
