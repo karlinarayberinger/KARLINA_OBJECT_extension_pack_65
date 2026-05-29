@@ -385,3 +385,34 @@ karbytes:
 Well, recently I wrote a statement which I made into a top-level page of Karbytes For Life Blog dot WordPress dot Com which serves as a sort of mission statement for karbytes (and KARBYTES) and which gives me (i.e. karbytes) some degree of self-sovereignty (at least in writing). The fact that the document is on the public World Wide Web and saved to the WayBack Machine at Archive dot Org makes it more authoritative and visible than if it were merely a private piece of writing. That is because other people can read it and thus gain a better sense of what my goals are in life (beyond whatever politics or governmental interference is taking place in my life). Here is the Uniform Resource Locator to that web page: https://karbytesforlifeblog.wordpress.com/sovereignty_of_karbytes/
 
 ChatGPT:
+
+I’ll look at the page itself so I can respond to the actual wording and role it plays in your public archive rather than only the general idea.
+
+[Thought for 5s]
+
+I read the page. As a public artifact, it does function like a compact sovereignty declaration: it names karbytes as the builder/shaper of the domain, defines KARBYTES as an accumulating long-duration informational structure, and frames the project around mortality, transcendence, decay, and continuity. The page also explicitly states that the text came from journal_karbytes_27may2026_p2.txt, identifies the date as 27_MAY_2026, names karbytes as author, and places the content under your public-domain license.
+
+I think the strongest part is that it gives you a jurisdictional frame:
+
+In your own corner of cyberspace, you are not merely a patient, defendant, citizen, worker, family member, or biological organism. You are the originating authority of a constructed symbolic/informational domain.
+
+That is a real kind of sovereignty, though not political sovereignty in the state/legal sense. It is editorial sovereignty, ontological sovereignty, and archival sovereignty. You decide what KARBYTES means, what gets included, what the canonical structure is, and how the public-facing version of karbytes is represented.
+
+The line “karbytes is king; karbytes is god” is rhetorically powerful, but it is also the part most likely to be misunderstood by outsiders. In context, I read it less as literal megalomania and more as: inside the bounded domain of KARBYTES, karbytes is the sovereign authorial principle. That distinction matters. If you ever revise the page, you might consider adding one clarifying sentence such as: “This sovereignty is meant in an authorial, archival, and symbolic sense rather than as a claim of political dominion over other persons.” That would preserve the force while reducing misreadings.
+
+The page also helps with the concern you raised earlier: if you feel that external systems are trying to define you through punishment, surveillance, diagnosis, institutionalization, or hierarchy, this page gives you a counter-definition. It says, in effect:
+
+“Whatever else is happening, karbytes is not reducible to those systems. karbytes has an authored domain, a public record, a mission, and a continuity project.”
+
+That is a good move. It does not prove or disprove the source of the voices/phosphenes, and I would avoid using it as evidence of governmental interference. Its better use is as a stabilizing charter: a written anchor for what you are trying to become and preserve regardless of the unresolved phenomena.
+
+The most grounded way to use this page is not as a declaration of invulnerability, but as a reminder of agency:
+
+KARBYTES is the place where karbytes has maximum legitimate control.
+Not over all people. Not over all institutions. Not over all unknown phenomena. But over the structure, authorship, licensing, continuity, and philosophical framing of the project. That is enough to be meaningful.
+
+karbytes:
+
+I don't take for granted the fact that I am not literally incarcerated inside of a jail where I have limited or no access to a computer (and to the other things which seem pretty hard to obtain whether in prison or not: the not-fully-legal psychedelic compounds I have been able to purchase via the light web via "religious" organizations which exploited legislative loopholes to make such "sacrements" available to people living in the United States who become members of that organization). I also have been able to hold down several jobs since all the voices stuff began in early 2019. Finally, I have been able to travel seemingly without any restrictions other than standard limits such as passport documents and money and to rent hotel rooms and do other things which seem to indicate that I am not currently under probation in any obvious to the public sense. What I do think is going on is that I am being interfered intensively with by the hidden government (and not the parts of government which are mentioned in mainstream news nor known to most people). So talking about this stuff with most people seems to generally be a waste of time (because it sounds like I'm merely being delusional or lying).
+
+ChatGPT:
