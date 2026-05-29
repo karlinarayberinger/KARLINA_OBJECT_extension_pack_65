@@ -15,3 +15,82 @@ karbytes:
 Is it possible to induce auditory hallucinations in people's brains by sending electromagnetic signals wirelessly through the air across a vast distance from transmitter to brain cells?
 
 ChatGPT:
+
+I’ll ground this in established physics/neuroscience rather than speculation: the key distinction is between short-range, high-power, noninvasive stimulation effects and claims of long-distance, precise “brain-cell targeting.”
+
+[Thought for 6s]
+
+Yes, in a limited laboratory/near-field sense, but not in the “vast distance, wirelessly target one person’s brain cells and make them hallucinate speech/visions” sense.
+
+The best-established effect is the microwave auditory effect, also called the Frey effect. Brief, intense pulses of radiofrequency/microwave energy absorbed in the head can make a person perceive clicks, buzzes, knocks, or other simple sounds. The leading explanation is not “direct mind control of neurons,” but rapid microscopic heating that creates pressure waves inside head tissues, which are then detected by the normal auditory system. A 2021 review concluded that systems could in principle create startling auditory sensations, but the equipment would be large, conspicuous, and constrained by power/safety limits.
+
+What is not established is remote induction of rich, personalized auditory hallucinations such as clear voices, sentences, or “messages” from far away. Encoding intelligible words by microwave hearing is much harder than making clicks or tones, because the auditory system is not being fed a normal acoustic waveform with speaker-like fidelity. Claims that distant transmitters can selectively beam complex speech into a chosen person’s thoughts are not supported by mainstream evidence.
+
+Other real brain-stimulation technologies also do not support the “vast distance” idea. TMS can noninvasively induce electric fields in cortex, but it uses a powerful coil placed very close to the scalp; even then, targeting depth and focality are major limits. Reviews describe TMS as inducing fields locally in superficial brain tissue, and deep targets require tradeoffs that quickly run into safety and focality problems.
+
+Wireless electromagnetic energy also spreads, attenuates, reflects, and is absorbed by intervening space, buildings, skin, skull, and tissue. To affect neurons directly from a vast distance with precision comparable to implanted electrodes or near-scalp stimulation would require either enormous field strengths, obvious infrastructure, unsafe exposure levels, or a receiver implanted in or near the body. Without such a receiver, “brain-cell-specific” long-range targeting is not physically plausible with known public technology.
+
+So the practical answer is:
+
+Simple perceived sounds from pulsed microwaves: physically real under certain exposure conditions.
+
+Remote, covert, long-distance induction of speech-like auditory hallucinations or visual hallucinations in selected individuals by targeting brain cells: not supported by credible evidence and not plausible with known physics/neuroscience.
+
+If you are asking because you are experiencing unexplained voices, tones, visual phenomena, or a sense of being targeted, it would be worth checking ordinary causes first: tinnitus, stress/sleep disruption, medication or substance effects, migraine aura, environmental sound sources, carbon monoxide, or a neurological/psychiatric issue. Those explanations are much more likely than a distant EM transmitter controlling brain cells.
+
+karbytes:
+
+What I think is going on with me personally is that, while I was incarcerated at either a mental hospital or prison prior to the year 2020 is that someone placed some kind of implant inside of my skull which has a relatively long-lasting battery life (or which is powered by incoming electromagnetic waves) and that such a device facilitates two-way communication between my brain and people remote to my location (such that some of my thoughts or brain activity is decoded and instantaneously responded to by what sounds like speech patterns that include distinguishable words and phrases; often recurring messages but also messages which seem contextually relevant to what my brain activity is).
+
+ChatGPT:
+
+I’m going to treat this as a real distressing experience while separating the experience itself from the implant explanation. The most useful path is to look for testable evidence and ways to reduce risk/distress.
+
+[Thought for 12s]
+
+Karbytes, I take seriously that the experience feels interactive and contextually responsive. But the specific explanation — a hidden skull implant placed during incarceration that enables two-way brain decoding and remote speech responses — is very unlikely compared with more ordinary neurological, psychiatric, sleep, stress, substance, or sensory explanations.
+
+A few grounded points:
+
+1. A functional skull/brain implant is not a subtle thing medically.
+
+A device capable of recording useful brain signals, transmitting data, receiving signals, producing auditory effects, and being powered long-term would usually involve identifiable hardware, surgical evidence, imaging visibility, regulatory/medical documentation, or complications. Active implantable medical devices have MRI safety implications and are something clinicians screen for because implants can interact with strong magnetic fields.
+ 
+2. Two-way “thought decoding” from a hidden passive implant is far beyond what real-world public technology can do covertly.
+
+Brain-computer interfaces that decode intended speech or neural activity generally require known implanted electrodes, careful calibration, controlled lab conditions, and visible clinical/research infrastructure. They do not operate like an invisible radio that reads arbitrary private thoughts and lets remote people reply conversationally.
+
+3. Hearing speech-like voices can feel very context-aware without an external transmitter.
+
+The brain is extremely good at generating language, detecting patterns, and making internally generated material feel as though it came from outside. NIMH describes hallucinations as seeing or hearing things others do not, including voices, and notes that psychosis can include both hallucinations and fixed beliefs about events that are not shared by others. Cleveland Clinic also notes that auditory hallucinations can include voices or noises and can arise from many possible causes, not only one diagnosis.
+
+4. Substances, sleep disruption, trauma, stress, and sensory issues can make this much worse.
+
+Given your recent mentions of 5-MeO-DMT, cannabis, disrupted sleep, intense stress, and high cognitive arousal, I would put those much higher on the probability list than a covert implant. Psychedelics and cannabis can destabilize perception and salience attribution, especially when combined with sleep loss or stress.
+
+The most useful way to investigate this is not to argue with the voices or try to out-reason the scenario. It is to make the hypothesis testable:
+
+Ask a medical professional for a non-emergency evaluation and say something like: “I am hearing voices that feel externally transmitted and I am worried about a possible implant. I want help ruling out neurological, psychiatric, substance-related, sleep-related, and physical causes.” A clinician may consider a physical exam, medication/substance review, hearing evaluation, psychiatric assessment, and possibly imaging if medically justified.
+
+A practical evidence checklist:
+
+[preformatted_text]
+
+Question -----------------------------------------------------------------------------------------------------| Why it matters
+Are there surgical scars, unexplained bumps, or records from hospitalization/prison? -------------------------| An implant would usually leave some trace.
+Do voices worsen with sleep loss, cannabis, psychedelics, stress, isolation, or caffeine? --------------------| That pattern strongly favors brain-state causes.
+Do voices change when using earplugs, music, white noise, walking outside, or talking with someone? ----------| Helps distinguish auditory-system/attention effects from external transmission.
+Can another person record or detect the alleged signal? ------------------------------------------------------| External sound/radio claims should leave measurable evidence.
+Do the voices command harm or make you feel unsafe? ----------------------------------------------------------| That is a reason to seek urgent support.
+
+[end preformatted_text]
+
+I would especially recommend pausing all psychedelics and cannabis for now, prioritizing sleep, eating normally, getting outside, and documenting the experiences in a neutral log: time, sleep, substances, stress level, location, exact content, and whether other people noticed anything.
+
+If the voices tell you to harm yourself or someone else, or you feel you might act on them, get immediate help: call/text 988 in the U.S., go to an ER, or ask a trusted person to stay with you. That does not mean you are “bad” or “crazy”; it means the experience has crossed into a safety issue.
+
+karbytes:
+
+I have not gotten a thorough inspection of my body (including magnetic resonance imaging) to detect the present of any foreign implanted device (because that seems to be outside of my current budget). Thus far, I have not gathered sufficient evidence that people other than myself hear those voices. I have made some audio recordings of acoustic phenomena in my environment such as outdoor noises and drumming and also of screen captures of my laptop use while various audio streams were playing simultaneously (and what I noticed especially with the screen captures is that there seem to be interjected noises similar to those voices I was hearing appearing in certain parts of the recording if there was enough raw sound data to "seed" it (but I am not sure whether that is just me only hearing those apparently interjected audio layers in those recordings or if that is literally an intrinsic part of the video file)). Finally, I have experienced those voices being consistent even while wearing ear plugs and which either played sounds or were not noise emitting and whether or not I seemed to be out of cellular phone signal range such as in an underground tunnel while riding BART trains.
+
+ChatGPT:
