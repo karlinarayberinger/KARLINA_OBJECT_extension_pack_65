@@ -482,7 +482,7 @@ M_DISC 3 of 3 data collection size: approximately 4 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2026_4: // folder contains exactly 17 files (approximately 3226.79 megabytes total).
+karbytes2026_4: // folder contains exactly 17 files (approximately 3226.81 megabytes total).
 
     - zip_file_0: karbytes_23AndMe_Ancestry_Data-main.zip // 6.8 18235.95 megabytes
 
