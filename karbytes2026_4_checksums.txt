@@ -22,11 +22,11 @@ file_6: KARLINA_OBJECT-main.zip // SHA-256: c061b3183a087834567cff509303f6d6cb49
 
 file_7: karbytes_23AndMe_Ancestry_Data-main.zip // SHA-256: 5ebb70778d901ec6630dcee2eab1d53657aebe31bb210940a698049d78e5f6ec
 
-file_8: KARLINA_OBJECT_extension_pack_65-main.zip // SHA-256: e1b5b82fa7b0f669b9b406c219f3d820959dafefe8c1cb4dad0e91a79691d621
+file_8: KARLINA_OBJECT_extension_pack_65-main.zip // SHA-256: 838f50c2800841f83fc508e254f9d88a29f30e99dddd94fc2e3b5887ec19eea4
 
 file_9: karbytes_wayback_machine_saves_precision_batches-main.zip // SHA-256: d5ca71b6097bcb52a37db14074c1c8d1b3ca3941905741ba775c3c0ccaf43a16
 
-file_10: KARBYTES_FOR_LIFE_BLOG-main_31may2026.zip // SHA-256: d928e959f7f4a6de05aedd5e5f9f56ebb3723fccec6044c92eddec1016ffbc80
+file_10: KARBYTES_FOR_LIFE_BLOG-main_31may2026.zip // SHA-256: 1a7cbf6bb9962821772615f9e57154ce5128a7c6a2761a571f04cb751cf5f53e
 
 file_11: karbytes_dark_websites-main.zip // SHA-256: e7040d2be96177060074883447a0f4f44b7cef4f4614ae33e676b498002d2c90
 
